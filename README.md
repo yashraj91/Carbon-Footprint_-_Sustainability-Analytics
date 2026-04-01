@@ -136,7 +136,7 @@ Household-Carbon-Footprint-Analysis/
 ┣ data/
 ┃ ┗ carbon-footprint.Rda
 ┣ scripts/
-┃ ┗ analysis.R            # optional if you have a standalone script
+┃ ┗ analysis.R 
 ┣ reports/
 ┃ ┣ submission.Rmd
 ┃ ┗ supporting.Rmd
